@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LibraryRoomArticle</string>
+    <string name="add_new_statistic">Добавить статистику</string>
+    <string name="mistakes_count">Количество ошибок</string>
+    <string name="points">Количество очков</string>
+    <string name="add_statistic">Добавить</string>
+    <string name="all_statistic">Вся статистика</string>
+    <string name="item_image_statistic">item_image_statistic</string>
+    <string name="status">Статус:</string>
+    <string name="difficulty_level">Сложность:</string>
+    <string name="mistakes">Ошибки:</string>
+</resources>
